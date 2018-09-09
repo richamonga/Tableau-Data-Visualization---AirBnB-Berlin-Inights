@@ -1,7 +1,7 @@
 # Tableau-Data-Visualization---AirBnB-Berlin-Inights
 I have tried to represent my take on extracting insights from data about AirBnBs in Berlin by presenting them on a TABLEAU Dashboard
 
-Data has been taken from the the data repository made available by AirBnB on the below link.This reporsitory contains listings,availability calendar,reviews for AIRBnBs in major cities across the world.
+Data has been taken from the data repository made available by AirBnB on the below link.This reporsitory contains listings,availability calendar,reviews for AIRBnBs in major cities across the world.
 
 http://insideairbnb.com/get-the-data.html
 
